@@ -1,4 +1,3 @@
-﻿# Spotify-Album-Finder
 # Spotify Album Finder
 
 A React app to search for artists and display their albums using the Spotify API.
@@ -50,4 +49,5 @@ npm run build
 - [Vite](https://vitejs.dev/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+
 
