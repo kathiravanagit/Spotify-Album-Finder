@@ -33,7 +33,6 @@ A React app to search for artists and display their albums using the Spotify API
    npm run dev
    ```
 
-   The app will be available at [http://localhost:5173](http://localhost:5173) by default.
 
 ## Build
 
@@ -49,5 +48,6 @@ npm run build
 - [Vite](https://vitejs.dev/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+
 
 
